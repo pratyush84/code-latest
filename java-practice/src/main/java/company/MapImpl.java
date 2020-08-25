@@ -1,4 +1,4 @@
-package interview;
+package company;
 
 import static org.mockito.Mockito.*;
 
